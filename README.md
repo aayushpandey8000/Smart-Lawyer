@@ -1,6 +1,6 @@
 # Smart Lawyer 🎩
 
-![Smart Lawyer Demo]()
+![Smart Lawyer Demo](https://github.com/aayushpandey8000/Smart-Lawyer/blob/main/Streamlit_gif.webm)
 
 Welcome to Smart Lawyer, your intelligent legal assistant powered by Streamlit and OpenAI!
 
