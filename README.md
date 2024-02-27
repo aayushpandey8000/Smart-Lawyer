@@ -32,9 +32,7 @@ Check out this short demo to see Smart Lawyer in action:
 
 We welcome contributions from the community! If you'd like to contribute to Smart Lawyer, please fork this repository and submit a pull request with your changes.
 
-## Feedback
 
-Have questions, suggestions, or feedback? We'd love to hear from you! Reach out to us at [smartlawyer@example.com](mailto:smartlawyer@example.com).
 
 ## License
 
