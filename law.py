@@ -1,8 +1,9 @@
 import streamlit as st
 import openai
+import os
 
 # Set up OpenAI API
-openai.api_key = "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"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Streamlit UI
 st.title("Smart Lawyer")
